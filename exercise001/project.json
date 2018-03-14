@@ -1,0 +1,14 @@
+{
+  "name": "exercise001",
+  "description": "Answer to exercise \"Lesson 2 - Practice 1 Walkthrough\" from academy.uipath.com",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6646.28902",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
