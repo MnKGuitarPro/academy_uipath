@@ -16,3 +16,10 @@ B. If the user chose `No` (which is the False answer):
 * Does the same series of actions as the True branch. However, instead of typing Correct, types Incorrect into Notepad.
 
 Finally, closes the Notepad application.
+
+## Solutions
+
+Here you have two solutions:
+
+1. exercise001/Main.xaml (my solution)
+2. exercise001/official_answer/Simple math question.xaml (the official Academy's solution)
