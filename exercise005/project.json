@@ -1,0 +1,14 @@
+{
+  "name": "holamundo",
+  "description": "My answer to question 5 of UiPath Academy",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6653.27929",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Secondary",
+  "description": "Secondary sequence to print the log (exercise number 4, UiPath Academy)",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6653.22883",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

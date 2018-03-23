@@ -1,0 +1,14 @@
+{
+  "name": "Exercise004",
+  "description": "My answer to the exercise 4 of UiPath Academy",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6653.18944",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

@@ -21,5 +21,5 @@ Finally, closes the Notepad application.
 
 Here you have two solutions:
 
-1. exercise001/Main.xaml (my solution)
-2. exercise001/official_answer/Simple math question.xaml (the official Academy's solution)
+1. `exercise001/Main.xaml` (my solution)
+2. `exercise001/official_answer/Simple math question.xaml` (the official Academy's solution)

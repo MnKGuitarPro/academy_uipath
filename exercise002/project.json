@@ -1,0 +1,14 @@
+{
+  "name": "Exercise002",
+  "description": "Answer to the \"robot guess game\"",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6647.29572",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
