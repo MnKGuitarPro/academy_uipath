@@ -1,0 +1,14 @@
+{
+  "name": "Main",
+  "description": "Answer to problem 07 of UiPath Academy",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.3.7",
+  "projectVersion": "1.0.6668.29360",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

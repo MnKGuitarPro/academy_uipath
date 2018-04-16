@@ -1,0 +1,14 @@
+{
+  "name": "Main",
+  "description": "Answer to exercise number 6, \"Nickname Generator\"",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6667.28350",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
